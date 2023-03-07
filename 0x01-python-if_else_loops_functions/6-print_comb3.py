@@ -3,6 +3,6 @@ for a in range(10):
     for b in range(10):
         if b > a:
             if a == 8:
-                print(f'{a}{b}')
+                print('{}{}'.format(a, b))
             else:
-                print(f'{a}{b}', end=', ')
+                print('{}{}'.format(a, b), end=', ')
