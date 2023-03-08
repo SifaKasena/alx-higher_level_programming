@@ -5,17 +5,17 @@ A little about the directory
 - [Progress](#progress)
 - [Resources](#resources)
 - [Tasks](#tasks)
- - [Mandatory Tasks](#mandatory-tasks)
- - [Advanced Tasks](#advanced-tasks)
+  - [Mandatory Tasks](#mandatory-tasks)
+  - [Advanced Tasks](#advanced-tasks)
 - [Author](#author)
 
 ## Progress
 - [ ] Mandatory Tasks
- - [ ] Task 0
- - [ ] Task 1
- - [ ] Task 2
+  - [ ] Task 0
+  - [ ] Task 1
+  - [ ] Task 2
 - [ ] Advanced Tasks
- - [ ] Task 100
+  - [ ] Task 100
 
 ## Resources
 > - [First resource]()
