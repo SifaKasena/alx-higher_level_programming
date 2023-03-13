@@ -1,2 +1,2 @@
-def my_print():
+def my_fun():
     print("#pythoniscool")
