@@ -22,11 +22,8 @@ int is_palindrome(listint_t **head)
 		{
 			if (first->next == last)
 				break;
-			first = first->next;
-			tmp = first;
-			while (tmp->next != last)
-				tmp = tmp->next;
-			last = tmp;
+			first += 2;
+			last -= 2;
 		}
 		else
 		{
